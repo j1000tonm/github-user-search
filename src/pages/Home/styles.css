@@ -1,0 +1,35 @@
+.home-container {
+    margin-top: 120px;
+    padding-left: 120px;
+}
+
+.home-title {
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 64px;
+    letter-spacing: 0.02em;
+    color: var(--dark-color);
+}
+
+.home-subtitle {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 36px;
+    margin-top: 24px;
+    color: #5A6774;
+}
+
+.home-btn-start {
+    background-color: var(--primary-color);
+    border-radius: 4px;
+    height: 40px;
+    width: 120px;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: normal;
+    font-size: 16px;
+    letter-spacing: -0.015em;
+    color: #FFF;    
+}
